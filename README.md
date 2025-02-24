@@ -7,11 +7,11 @@ There are Four pillars of oops (object oriented programming)
 5. Polymorphism -  Complie Time Polymorphism - Function Overloading , Runtime Polymorphism - Function Overriding 
 
 And oops also cover 
-1. Constructor -  Default Constructor, Parameterized Constructor, Copy Constructor , Shallow copy, Deep copy
-
-2. Virtual Functions
-3. Pure Virtual Functions
-4. Static Variables
+1. Constructor -  Default Constructor, Parameterized Constructor, Copy Constructor
+2. Shallow copy, Deep copy
+3. Virtual Functions
+4. Pure Virtual Functions
+5. Static Variables
 
 I have practiced programs on all the topics of OOPS.
 
